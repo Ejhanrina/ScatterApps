@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/GetScatter/ScatterApps#readme",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.0",
     "mocha": "^5.2.0"
   }
 }
